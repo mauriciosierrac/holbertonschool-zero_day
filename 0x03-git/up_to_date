@@ -1,1 +1,1 @@
-sudo vi up_to_date
+sudo git push origin master
